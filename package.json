@@ -1,0 +1,20 @@
+{
+    "title": "Jellybeans",
+    "name": "jellybeans",
+    "description": "Jellybeans theme for Brackets",
+    "version": "0.0.1",
+    "author": "Ted Jenkins <edwardtjenkins@gmail.com> (http://github.com/jsbalrog)",
+    "homepage": "https://github.com/jsbalrog/Brackets-Jellybeans",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:jsbalrog/Brackets-Jellybeans.git"
+    },
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "jellybeans.less",
+        "dark": true
+    },
+    "screenshot": "jellybeans.png"
+}
